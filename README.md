@@ -2,7 +2,7 @@
 This repository contains challenges I have partaken in for personal development
 **
 
-ZINDI AIR QUALITY PREDICTION
+**ZINDI AIR QUALITY PREDICTION**
 
 This challenge was designed specifically as a #ZindiWeekendz hackathon (Urban Air Pollution Challenge). We are re-opening the hackathon as a Knowledge Challenge, to allow the Zindi community to learn and test their skills. To help you all out, we’ve created a new Tutorials tab with helpful resources from the community. We encourage Zindians to share their code on the discussion board so that everyone in our community can learn from and support one another.
 
